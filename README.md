@@ -1,2 +1,2 @@
-# NN Playground
-Some of my own implementations of Machine Learning learning process
+# One layer NN
+Very simple neural net with only one layer to learn the `2x + 1` pattern
