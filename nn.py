@@ -40,6 +40,8 @@ class Model:
     def show_history(self):
         plt.plot(self.E)
         plt.title(f"LR: {self.lr}")
+        plt.xlabel("Epochs")
+        plt.ylabel("Loss")
         plt.show()
 
 
